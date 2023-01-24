@@ -1,5 +1,6 @@
 #include "main.h"
 
+
 /**
  * print_c - Print characters (%c)
  * @ar_list: Store the a list of characters
