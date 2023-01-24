@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
 * get_func - search and return the correct function
 * @s: array to check
